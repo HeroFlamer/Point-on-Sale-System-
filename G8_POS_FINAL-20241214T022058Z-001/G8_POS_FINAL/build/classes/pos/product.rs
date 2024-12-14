@@ -1,0 +1,9 @@
+POS.product
+POS.product$7
+POS.product$8
+POS.product$1
+POS.product$2
+POS.product$5
+POS.product$6
+POS.product$3
+POS.product$4

@@ -1,0 +1,17 @@
+POS.customer$9
+POS.customer$8
+POS.customer$10
+POS.customer$7
+POS.customer$11
+POS.customer$6
+POS.customer$12
+POS.customer$5
+POS.customer$13
+POS.customer$4
+POS.customer$14
+POS.customer$3
+POS.customer$2
+POS.customer$1
+POS.customer
+POS.customer$15
+POS.customer$16

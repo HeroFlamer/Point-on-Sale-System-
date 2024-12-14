@@ -1,0 +1,17 @@
+POS.supplier$1
+POS.supplier$5
+POS.supplier$12
+POS.supplier$4
+POS.supplier$11
+POS.supplier$3
+POS.supplier$10
+POS.supplier$2
+POS.supplier$9
+POS.supplier
+POS.supplier$8
+POS.supplier$7
+POS.supplier$6
+POS.supplier$16
+POS.supplier$15
+POS.supplier$14
+POS.supplier$13
